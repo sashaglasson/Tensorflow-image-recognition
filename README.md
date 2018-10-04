@@ -1,6 +1,6 @@
 # Image Recognition
 
-This python code will help you Image Classifier as a beginner and also train your images and to make predection. The credits for this code go to pranoyr. I've merely flesh out to get people started.
+This python code will help you Image Classifier as a beginner and also train your images and to make predection. The credits for this code go to pranoyr. I've merely fleshed out to get people started.
 
 # Pre-requistes
 
